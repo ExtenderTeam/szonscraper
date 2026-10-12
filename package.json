@@ -1,0 +1,12 @@
+{
+  "name": "szon-news-api",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0",
+    "cheerio": "^1.0.0",
+    "fast-xml-parser": "^4.5.0"
+  }
+}
